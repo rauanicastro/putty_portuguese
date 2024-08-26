@@ -48,7 +48,7 @@ Com o download concluído, siga para as próximas etapas:
 
 Este tutorial apresenta o passo a passo necessário para mover arquivos em um servidor Windows a partir de outro Windows usando o protocolo SSH no PuTTY.
 
-> :warning:  **Importante**
+> :warning:  **Importante** <br>
 > Caso ainda não tenha o PuTTY, confira o tutorial [Como instalar o PuTTY](https://fakesiteportfolio.com).
 
 
@@ -87,7 +87,7 @@ Para indicar o sucesso da ação, a tela exibirá a mensagem **"1 arquivo(s) mov
 
 Esse comando também pode ser usado para renomear um arquivo. Para isso, o caminho de destino será o mesmo de origem, alterando apenas o nome do arquivo para o desejado. Exemplo: `move C:\Users\nomedousuario\Documents\arquivo.txt C:\Users\nomedousuario\Documents\arquivonovo.txt`
 
->:grey_exclamation: **Info**
+>:grey_exclamation: **Info** <br>
 >Se o nome do arquivo tem espaços, use aspas em ambos os caminhos. Exemplo:`move "C:\Users\nomedousuario\Documents\arquivo exemplo.txt" "C:\Users\nomedousuario\Destino"`
 
 Para executar outras ações remotas com o PuTTY, confira o artigo [Comandos do PuTTY](https://fakesiteportfolio.com).
@@ -101,7 +101,7 @@ Para executar outras ações remotas com o PuTTY, confira o artigo [Comandos do 
 
 Neste artigo você encontrará informações sobre a tela Session, a principal do PuTTY. Nessa tela são informados os dados necessários para a conexão entre servidores.
 
-> :grey_exclamation: **Info**
+> :grey_exclamation: **Info** <br>
 > Para conferir explicações adicionais sobre a tela, clique no ícone **?** no lado superior direito. Uma interrogação aparecerá ao lado do cursor do mouse, indicando que o modo ajuda foi habilitado. Feito isso, clique em algum campo e uma janela será exibida com informações sobre ele.
 
 ### Basic options for your PuTTY session
